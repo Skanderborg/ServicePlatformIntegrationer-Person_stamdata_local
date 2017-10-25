@@ -31,4 +31,4 @@ Step 6:
 * Log på serviceplatformen som: Bruger (Kan registrere virksomhedens it-systemer, anmode om serviceaftaler og se forbrug.)
 * Find UUID'er:
 
-![alt text](https://github.com/SkanderborgKommune/ServicePlatformIntegrationer-Person_stamdata_local/blob/master/importservice.JPG)
+![alt text](https://github.com/SkanderborgKommune/ServicePlatformIntegrationer-Person_stamdata_local/blob/master/serviceplatform.JPG)
