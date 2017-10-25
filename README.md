@@ -1,0 +1,2 @@
+# ServicePlatformIntegrationer-Person_stamdata_local
+Basic brug af Person_stamdata_local
